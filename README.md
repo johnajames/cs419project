@@ -1,0 +1,1 @@
+This is a calendar and scheduling app for a computer science course
